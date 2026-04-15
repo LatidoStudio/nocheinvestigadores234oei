@@ -1,0 +1,16 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+2024.nocheiberoamericanainvestigadores.oei.int	TRUE	/	FALSE	1999999999	2d74e86e2b8417b99acc5cbd286fefef	k7n4biim62qthut92nn3tks5v4
+2023.nocheiberoamericanainvestigadores.oei.int	TRUE	/	FALSE	1999999999	6c217d2ffadee6a75c636ab2b67221bb	vhqobdc4pc7uqa4p921mk84c77
+2022.nocheiberoamericanainvestigadores.oei.int	TRUE	/	FALSE	1999999999	dcc3615239584b8c928b4ba3d8ff62ea	30h49a0ucs5ks0smu1a01ltj83
+aula-virtual.oei.int	TRUE	/	FALSE	1999999999	MoodleSession	mqpsvosjlpvi49aene9jrkeamm
+www.linkedin.com	TRUE	/	FALSE	1999999999	JSESSIONID	ajax:9169369022064780314
+.www.linkedin.com	TRUE	/	FALSE	1999999999	SameSite	None
+www.linkedin.com	TRUE	/	FALSE	1999999999	lang	v=2&lang=en-us
+.linkedin.com	TRUE	/	FALSE	1999999999	lidc	b=TGST00:s=T:r=T:a=T:p=T:g=3867:u=1:x=1:i=1776115771:t=1776202171:v=2:sig=AQHkGv-WoMPFweJwl2W4gBvGo995U1vP"
+aula-virtual-mooc.oei.int	TRUE	/	FALSE	1999999999	MoodleSession	a04718tun9akrdbaq2r835h72h
+linkedin.com	TRUE	/	FALSE	1999999999	__cf_bm	7ySHNDuib2gsNjT3FUal.npuJmj4zxQe1EOuWi_3l6g-1776121109.4534798-1.0.1.1-49w3TP_h1v.NH7vCsTkvoMhHcJEqfuC3zn3iSjgl9C8qwB9Bs8O_brqDerDsrN9b.GKRMMbqP3.r_GlmvRinIBDuVaFfuTPeyKWojBrFX2xZFVGiXbjrafacgyh2Gbi4
+.linkedin.com	TRUE	/	FALSE	1999999999	bcookie	v=2&99d3c9cc-0e91-4173-8ee0-32ff78e6cb30"
+.www.linkedin.com	TRUE	/	FALSE	1999999999	bscookie	v=1&20260413230842224508b1-cc71-47be-872c-ec7d061def9aAQEbrj8bMHrO0hSIIz-W1G1g1U9LL4PT"
+www.linkedin.com	TRUE	/	FALSE	1999999999	SameSite	None
+

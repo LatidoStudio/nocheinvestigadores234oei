@@ -1,0 +1,9 @@
+.DS_Store
+hts-cache/
+*.log
+*.zip
+*.mp4
+*.mov
+*.avi
+*.pdf
+*.tmp
